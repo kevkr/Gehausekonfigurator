@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "camera-controls": "^2.3.5",
+    "file-saver": "^2.0.5",
+    "three": "^0.152.2",
+    "three-bvh-csg": "^0.0.7",
+    "three-rounded-box": "^0.1.1"
+  },
+  "devDependencies": {
+    "jsdoc": "^4.0.2",
+    "vite": "^4.3.5"
+  }
+}
