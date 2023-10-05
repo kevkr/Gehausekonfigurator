@@ -1,2 +1,0 @@
-LED: https://www.thingiverse.com/thing:1376941
-LCD: https://grabcad.com/library/16-x-2-lcd-display-module-with-iic-i2c-module-1
